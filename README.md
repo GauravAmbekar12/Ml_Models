@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GauravAmbekar12
-- 👀 I’m interested in Cpp And Web development 
-- 🌱 I’m currently learning Cpp And Jss
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in App Developement 
+- 🌱 I’m currently learning Cpp, Java And jss
 - 📫 How to reach me gauravambekar49@gmail.com 
 
 <!---
