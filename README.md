@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauravAmbekar12
-- 👀 I’m interested in App Developement 
-- 🌱 I’m currently learning Cpp, Java And jss
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Cpp, Java And jss, Aslo Data Science
 - 📫 How to reach me gauravambekar49@gmail.com 
 
 <!---
