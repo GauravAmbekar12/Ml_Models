@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauravAmbekar12
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python,C++ Aslo Data Science
+- Im learning Data Science
 - 📫 How to reach me gauravambekar49@gmail.com 
 
 <!---
